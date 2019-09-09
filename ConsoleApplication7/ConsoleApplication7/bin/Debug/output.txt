@@ -1,0 +1,4 @@
+Dubovskay Ekaterina;  Kirova 15; 1993; 9; 4; 6;
+
+Semeniak Nikita;  Popovicha 18; 1997; 9; 5; 8;
+Mihalsky Alexey;  Solkolskay 22; 1998; 8; 4; 6;

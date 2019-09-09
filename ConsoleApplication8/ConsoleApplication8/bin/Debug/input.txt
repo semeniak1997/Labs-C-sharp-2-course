@@ -1,0 +1,5 @@
+Semenyak Eleana Alexandrovna; 2001; Glavny buhgalter; 900; 15;
+Baranovsky Victor Adamovich; 1998; Glavny Ingener; 1200; 18;
+Bobrik Vladimir Vladimirovich; 1999; Director; 1800; 17;
+Alexeeva Natalia Alexeevna; 2000; Buhgalter; 700; 16;
+Kachanova Galina Petrovna; 2009; Uborshchica; 400; 7;

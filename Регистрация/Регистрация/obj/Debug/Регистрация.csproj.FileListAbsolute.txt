@@ -1,0 +1,9 @@
+E:\Проекты C#\Регистрация\Регистрация\bin\Debug\Регистрация.exe.config
+E:\Проекты C#\Регистрация\Регистрация\obj\Debug\Регистрация.csprojResolveAssemblyReference.cache
+E:\Проекты C#\Регистрация\Регистрация\obj\Debug\Регистрация.Properties.Resources.resources
+E:\Проекты C#\Регистрация\Регистрация\obj\Debug\Регистрация.csproj.GenerateResource.Cache
+E:\Проекты C#\Регистрация\Регистрация\bin\Debug\Регистрация.exe
+E:\Проекты C#\Регистрация\Регистрация\bin\Debug\Регистрация.pdb
+E:\Проекты C#\Регистрация\Регистрация\obj\Debug\Регистрация.exe
+E:\Проекты C#\Регистрация\Регистрация\obj\Debug\Регистрация.pdb
+E:\Проекты C#\Регистрация\Регистрация\obj\Debug\Регистрация.Registration.resources

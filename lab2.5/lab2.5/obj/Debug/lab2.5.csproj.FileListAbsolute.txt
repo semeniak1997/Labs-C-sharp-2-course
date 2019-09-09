@@ -1,0 +1,27 @@
+E:\university\AiP\lab2.5\lab2.5\bin\Debug\lab2.5.exe.config
+E:\university\AiP\lab2.5\lab2.5\bin\Debug\lab2.5.exe
+E:\university\AiP\lab2.5\lab2.5\bin\Debug\lab2.5.pdb
+E:\university\AiP\lab2.5\lab2.5\obj\Debug\lab2.5.csprojResolveAssemblyReference.cache
+E:\university\AiP\lab2.5\lab2.5\obj\Debug\lab2._5.Form1.resources
+E:\university\AiP\lab2.5\lab2.5\obj\Debug\lab2._5.Properties.Resources.resources
+E:\university\AiP\lab2.5\lab2.5\obj\Debug\lab2.5.csproj.GenerateResource.Cache
+E:\university\AiP\lab2.5\lab2.5\obj\Debug\lab2.5.exe
+E:\university\AiP\lab2.5\lab2.5\obj\Debug\lab2.5.pdb
+F:\lab2.5\lab2.5\bin\Debug\lab2.5.exe.config
+F:\lab2.5\lab2.5\obj\Debug\lab2.5.exe
+F:\lab2.5\lab2.5\obj\Debug\lab2.5.pdb
+F:\lab2.5\lab2.5\bin\Debug\lab2.5.exe
+F:\lab2.5\lab2.5\bin\Debug\lab2.5.pdb
+F:\lab2.5\lab2.5\obj\Debug\lab2.5.csprojResolveAssemblyReference.cache
+F:\lab2.5\lab2.5\obj\Debug\lab2._5.Form1.resources
+F:\lab2.5\lab2.5\obj\Debug\lab2._5.Properties.Resources.resources
+F:\lab2.5\lab2.5\obj\Debug\lab2.5.csproj.GenerateResource.Cache
+E:\Проекты C#\lab2.5\lab2.5\bin\Debug\lab2.5.exe.config
+E:\Проекты C#\lab2.5\lab2.5\obj\Debug\lab2.5.exe
+E:\Проекты C#\lab2.5\lab2.5\obj\Debug\lab2.5.pdb
+E:\Проекты C#\lab2.5\lab2.5\bin\Debug\lab2.5.exe
+E:\Проекты C#\lab2.5\lab2.5\bin\Debug\lab2.5.pdb
+E:\Проекты C#\lab2.5\lab2.5\obj\Debug\lab2.5.csprojResolveAssemblyReference.cache
+E:\Проекты C#\lab2.5\lab2.5\obj\Debug\lab2._5.Form1.resources
+E:\Проекты C#\lab2.5\lab2.5\obj\Debug\lab2._5.Properties.Resources.resources
+E:\Проекты C#\lab2.5\lab2.5\obj\Debug\lab2.5.csproj.GenerateResource.Cache

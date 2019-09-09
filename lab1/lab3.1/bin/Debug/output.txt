@@ -1,0 +1,4 @@
+Zaichenko aleksei;  Kirova 15; 1993; 9; 4; 6;
+
+Misyukevich Aleksei;  Tavlay 78; 1997; 9; 5; 8;
+Mihalsky Alexey;  Suvorova 22; 1998; 8; 4; 6;

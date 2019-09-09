@@ -1,0 +1,5 @@
+Misyukevich Ivan Victorovich; 2005; general attorney; 2000; 11;
+Mihalsky Alexey Nikolaevich; 2008; Security; 600; 8;
+Zaichenko aleksei Antonovich; 2010; Sys_admin; 1000; 6;
+Rukosuyev Artur Baranovich; 2012; Cleaner; 400; 4;
+Misyukevich Aleksei Ivanovich; 1998; CEO; 20000; 18;

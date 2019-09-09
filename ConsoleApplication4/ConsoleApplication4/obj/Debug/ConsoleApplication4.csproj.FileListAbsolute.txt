@@ -1,0 +1,6 @@
+E:\Проекты C#\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+E:\Проекты C#\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+E:\Проекты C#\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+E:\Проекты C#\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+E:\Проекты C#\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+E:\Проекты C#\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
